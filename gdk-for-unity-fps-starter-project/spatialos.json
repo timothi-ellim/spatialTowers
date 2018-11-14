@@ -1,0 +1,8 @@
+{
+    "name": "beta_six_two_68",
+    "project_version": "0.0.1",
+    "sdk_version": "14.0-b6841-3d544-WORKER-SNAPSHOT",
+    "dependencies": [
+        {"name": "standard_library", "version": "14.0-b6841-3d544-WORKER-SNAPSHOT"}
+    ]
+}
